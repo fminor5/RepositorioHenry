@@ -1,0 +1,7 @@
+
+Module 3
+The following functions should be revised:
+esPrimo
+doWhile
+
+Module 4
