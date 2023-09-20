@@ -1,7 +1,35 @@
 
-Module 4
+** Module 4
 The following functions should be revised:
 esPrimo
 doWhile
 
-Module 5
+** Module 5
+Can be reviewed:
+empieza con nueve
+
+The following functions should be revised:
+todosIguales
+mesesDelAno
+breakStatement
+continueStatement
+
+** Module 6
+Can be reviewed:
+agregarPropiedad y invocarMetodo: propiedad and metodo are not called as a string inside the bracket notation.
+[propiedad] instead of ['propiedad']
+
+Answer: ***** When we need to use an external variable we need to save it as a property in an object. That's why in these two exercises the named properties go without quotes.
+
+
+The following functions should be revised:
+tieneEmail
+tienePropiedad
+verificarPassword: check why we need to use quotes.
+pasarUsuarioAPremium
+sumarLikesDeUsuario
+agregarMetodoCalculo
+
+** Module 7
+Can be reviewed:
+agregarStringInverse
